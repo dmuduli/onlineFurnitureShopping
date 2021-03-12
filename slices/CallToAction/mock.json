@@ -1,0 +1,38 @@
+{
+  "__typename": "Collection_pageBodyCall_to_action",
+  "type": "call_to_action",
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Looking For The Perfect Bed?",
+        "spans": []
+      }
+    ],
+    "paragraph": [
+      {
+        "type": "paragraph",
+        "text": "Answer five easy questions and we’ll recommend a range of bed based on what’s important to you",
+        "spans": []
+      }
+    ],
+    "anchor_label": "Take our quiz",
+    "background_color": "bg-gray-300",
+    "anchor_link": {
+      "_linkType": "Link.document",
+      "_meta": {
+        "uid": "quiz-page",
+        "type": "page"
+      }
+    },
+    "icon": {
+      "dimensions": {
+        "width": 414,
+        "height": 318
+      },
+      "alt": "Quiz Image",
+      "copyright": null,
+      "url": "https://images.prismic.io/snooze-discovery/d1bc0ad2-f703-4856-9c69-209bae094215_illo3+1.png?auto=compress,format"
+    }
+  }
+}

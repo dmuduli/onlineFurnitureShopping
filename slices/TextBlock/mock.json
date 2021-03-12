@@ -1,0 +1,46 @@
+{
+    "__typename": "PageBodyText_block",
+    "type": "text_block",
+    "label": null,
+    "primary": {
+      "sub_title": [
+        {
+          "type": "heading4",
+          "text": "Snooze has been giving Australians a better night's sleep for more than 40 years - and with more than 80 stores Australia wide it has most bedrooms covered. ",
+          "spans": []
+        }
+      ],
+      "paragraph": [
+        {
+          "type": "paragraph",
+          "text": "Many Snooze franchises operate as family run businesses, with local staff and strong connections within the community. Snooze's commitment and support of the area in which it operates is often demonstrated through local partnerships.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "The staff in each Snooze store are specially trained sales people who understand the key to a good night's sleep - everyone is different and their sleep needs vary.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "With that in mind, Snooze is constantly travelling to research the latest bedroom trends and introduce more innovative and technologically advanced products to its range, while also stocking well-known brands including Madison, Slumberland, Sealy Posturepedic and Tempur.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Snooze stores are all shapes and sizes; some are bigger and some smaller. Beds and bedroom furniture are big and bulky so unfortunately it's not possible for our Snooze Franchise Partners to display every product in every store. If you would like to view a particular product, then we suggest that you call your local store to check that they have a model on display. Even if a Snooze store does not have a particular product on display please speak with your local store about ordering that product.",
+          "spans": [
+            {
+              "start": 162,
+              "end": 187,
+              "type": "hyperlink",
+              "data": {
+                "link_type": "Web",
+                "url": "https://www.snooze.com.au/Franchising"
+              }
+            }
+          ]
+        }
+    ]
+}
+}

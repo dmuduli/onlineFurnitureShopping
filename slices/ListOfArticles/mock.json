@@ -1,0 +1,146 @@
+{
+  "type": "list_of_articles",
+  "primary": {
+    "title": [
+      {
+        "type": "heading2",
+        "text": "Related Articles",
+        "spans": []
+      }
+    ]
+  },
+  "fields": [
+    {
+      "title": [
+        {
+          "type": "heading3",
+          "text": "How to create a bedroom retreat",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 287,
+          "height": 287
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/snooze-discovery/767cce56-5901-480b-bb63-3a364ecb4acb_Screen+Shot+2020-08-25+at+4.14+1+%281%29.png?auto=compress,format"
+      },
+      "paragraph": [
+        {
+          "type": "paragraph",
+          "text": "It’s cold and you have already hit the snooze button more times than you can count. Finding the motivation to get out of bed each morning can be...",
+          "spans": []
+        }
+      ],
+      "read_more": {
+        "__typename": "Page",
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "quiz-page",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "title": [
+        {
+          "type": "heading3",
+          "text": "4 steps to freshen your bedroom for Spring",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 287,
+          "height": 287
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/snooze-discovery/4a824f7a-cb31-43ec-83de-e17e37cef9a6_Screen+Shot+2020-08-25+at+4.14+1+%283%29.png?auto=compress,format"
+      },
+      "paragraph": [
+        {
+          "type": "paragraph",
+          "text": "Wake up your bedroom in time for Spring with natural timber, fresh floral linen, bedding in neutral tones and textures and the natural beauty of ...",
+          "spans": []
+        }
+      ],
+      "read_more": {
+        "__typename": "Page",
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "quiz-page",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "title": [
+        {
+          "type": "heading3",
+          "text": "5 essentials for a better night’s sleep",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 287,
+          "height": 287
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/snooze-discovery/f955da94-7da6-40d3-b688-5d53b72b424f_Screen+Shot+2020-08-25+at+4.14+1+%282%29.png?auto=compress,format"
+      },
+      "paragraph": [
+        {
+          "type": "paragraph",
+          "text": "Getting enough sleep can allow us to lead our best lives. It can improve our productivity and concentration, ensuring we can get through everythi...",
+          "spans": []
+        }
+      ],
+      "read_more": {
+        "__typename": "Page",
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "quiz-page",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "title": [
+        {
+          "type": "heading3",
+          "text": "Creators of comfortable; ‘Select-O-Pedic’",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 287,
+          "height": 287
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/snooze-discovery/842e8f08-d7f2-479d-98dd-eb173389dfb5_Screen+Shot+2020-08-25+at+4.14+1.png?auto=compress,format"
+      },
+      "paragraph": [
+        {
+          "type": "paragraph",
+          "text": "Wake up your bedroom in time for Spring with natural timber, fresh floral linen, bedding in neutral tones and textures and the natural beauty of ...",
+          "spans": []
+        }
+      ],
+      "read_more": {
+        "__typename": "Page",
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "quiz-page",
+          "type": "page"
+        }
+      }
+    }
+  ]
+}

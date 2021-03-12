@@ -1,0 +1,473 @@
+{
+  "customer_service_title": [
+    {
+      "type": "heading3",
+      "text": "Customer Service",
+      "spans": []
+    }
+  ],
+  "customer_service_links": [
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Contact Us",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "contact-us",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": " Returns Policy",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "returns",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Delivery Policy",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "delivery",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Snooze Now Pay Later",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "snooze-now-pay-later",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Finance Options",
+          "spans": []
+        }
+      ],
+      "link": {
+        "url": "https://snooze-dev.myshopify.com/pages/contact-us",
+        "_linkType": "Link.web"
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Afterpay",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "afterpay",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Humm",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "humm",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Product Care Guide",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "product-care-guide",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "FAQs",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "faq",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Mattress Recycling",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "mattress-recycling",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Frontline Worker Offer",
+          "spans": []
+        }
+      ],
+      "link": {
+        "url": "https://snooze-dev.myshopify.com/pages/return-policy",
+        "_linkType": "Link.web"
+      }
+    }
+  ],
+  "about_title": [
+    {
+      "type": "heading3",
+      "text": "About",
+      "spans": []
+    }
+  ],
+  "about_links": [
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "About Us",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "about-us",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Franchising",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "become-a-franchisee",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Careers",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "careers",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Blog",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Blogpage",
+        "_meta": {
+          "uid": "inspiration",
+          "type": "blogpage"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Privacy",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "privacy",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Terms & Conditions",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "terms-condition",
+          "type": "page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "^*Promotion T&Cs",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "promotions-terms--conditions",
+          "type": "page"
+        }
+      }
+    }
+  ],
+  "shop_with_us_title": [
+    {
+      "type": "heading3",
+      "text": "Shop with us",
+      "spans": []
+    }
+  ],
+  "shop_with_us_links": [
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Our Stores",
+          "spans": []
+        }
+      ],
+      "link": {
+        "url": "https://snooze-dev.myshopify.com/pages/return-policy",
+        "_linkType": "Link.web"
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Get Your Sleep Profile",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "snooze-profiler",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Mattress Buying Guide",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "mattress-buying-guide",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Velocity Frequent Flyer",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "velocity-frequent-flyer",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Customise Zone",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Static_page",
+        "_meta": {
+          "uid": "my-customize-zone",
+          "type": "static_page"
+        }
+      }
+    },
+    {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Assembly Service",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "__typename": "Page",
+        "_meta": {
+          "uid": "assembly-service",
+          "type": "page"
+        }
+      }
+    }
+  ],
+  "social_icons_title": [
+    {
+      "type": "heading4",
+      "text": "get connected",
+      "spans": []
+    }
+  ],
+  "social_icons": [
+    {
+      "icon_name": "facebook"
+    },
+    {
+      "icon_name": "pintrest"
+    },
+    {
+      "icon_name": "instagram"
+    },
+    {
+      "icon_name": "youtube"
+    },
+    {
+      "icon_name": "houzz"
+    }
+  ],
+  "payment_icons": [
+    {
+      "icon_name": "visa"
+    },
+    {
+      "icon_name": "master-card"
+    },
+    {
+      "icon_name": "paypal"
+    },
+    {
+      "icon_name": "american-express"
+    },
+    {
+      "icon_name": "humm"
+    }
+  ],
+  "copyright_text": [
+    {
+      "type": "paragraph",
+      "text": "© Snooze Management Pty Ltd 2020",
+      "spans": []
+    }
+  ]
+}

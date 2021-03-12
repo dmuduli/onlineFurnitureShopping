@@ -1,0 +1,347 @@
+fragment lineItems on CheckoutLineItemConnection {
+  edges {
+    node {
+      id
+      title
+      quantity
+      variant {
+        id
+        title
+        priceV2 {
+          amount
+        }
+        product {
+          title
+          handle
+          vendor
+          id
+        }
+      }
+    }
+  }
+}
+
+fragment checkout on Checkout {
+  id
+  webUrl
+  completedAt
+  lineItems(first: 50) {
+    ...lineItems
+  }
+  subtotalPriceV2 {
+    amount
+    currencyCode
+  }
+  totalPriceV2 {
+    amount
+    currencyCode
+  }
+}
+
+fragment priceRange on ProductPriceRange {
+  maxVariantPrice {
+    amount
+    currencyCode
+  }
+  minVariantPrice {
+    amount
+    currencyCode
+  }
+}
+
+fragment UserErrorFragment on UserError {
+  field
+  message
+}
+
+fragment CheckoutUserErrorFragment on CheckoutUserError {
+  field
+  message
+  code
+}
+
+fragment VariantFragment on ProductVariant {
+  id
+  title
+  price
+  priceV2 {
+    amount
+    currencyCode
+  }
+  # presentmentPrices(first: 20) {
+  #   edges {
+  #     node {
+  #       price {
+  #         amount
+  #         currencyCode
+  #       }
+  #       compareAtPrice {
+  #         amount
+  #         currencyCode
+  #       }
+  #     }
+  #   }
+  # }
+  weight
+  weightUnit
+  available: availableForSale
+  sku
+  compareAtPrice
+  compareAtPriceV2 {
+    amount
+    currencyCode
+  }
+  image {
+    id
+    src: originalSrc
+    altText
+  }
+  selectedOptions {
+    name
+    value
+  }
+  # unitPrice {
+  #   amount
+  #   currencyCode
+  # }
+  # unitPriceMeasurement {
+  #   measuredType
+  #   quantityUnit
+  #   quantityValue
+  #   referenceUnit
+  #   referenceValue
+  # }
+  delivery_truck: metafield(namespace: "snooze", key: "delivery_truck") {
+    value
+  }
+  lead_time_text: metafield(namespace: "snooze", key: "lead_time_text") {
+    value
+  }
+  assembly_required: metafield(namespace: "snooze", key: "assembly_required") {
+    value
+  }
+  assembly_sku: metafield(namespace: "snooze", key: "assembly_sku") {
+    value
+  }
+}
+
+fragment VariantWithProductFragment on ProductVariant {
+  ...VariantFragment
+  product {
+    id
+    handle
+    tags
+  }
+}
+
+fragment MailingAddressFragment on MailingAddress {
+  id
+  address1
+  address2
+  city
+  company
+  country
+  firstName
+  formatted
+  lastName
+  latitude
+  longitude
+  phone
+  province
+  zip
+  name
+  countryCode: countryCodeV2
+  provinceCode
+}
+
+fragment AppliedGiftCardFragment on AppliedGiftCard {
+  amountUsedV2 {
+    amount
+    currencyCode
+  }
+  balanceV2 {
+    amount
+    currencyCode
+  }
+  presentmentAmountUsed {
+    amount
+    currencyCode
+  }
+  id
+  lastCharacters
+}
+
+fragment DiscountApplicationFragment on DiscountApplication {
+  __typename
+  targetSelection
+  allocationMethod
+  targetType
+  value {
+    ... on MoneyV2 {
+      amount
+      currencyCode
+    }
+    ... on PricingPercentageValue {
+      percentage
+    }
+  }
+  ... on ManualDiscountApplication {
+    title
+    description
+  }
+  ... on DiscountCodeApplication {
+    code
+    applicable
+  }
+  ... on ScriptDiscountApplication {
+    title
+  }
+  ... on AutomaticDiscountApplication {
+    title
+  }
+}
+
+fragment CheckoutFragment on Checkout {
+  id
+  ready
+  requiresShipping
+  note
+  paymentDue
+  paymentDueV2 {
+    amount
+    currencyCode
+  }
+  webUrl
+  orderStatusUrl
+  taxExempt
+  taxesIncluded
+  currencyCode
+  totalTax
+  totalTaxV2 {
+    amount
+    currencyCode
+  }
+  lineItemsSubtotalPrice {
+    amount
+    currencyCode
+  }
+  subtotalPrice
+  subtotalPriceV2 {
+    amount
+    currencyCode
+  }
+  totalPrice
+  totalPriceV2 {
+    amount
+    currencyCode
+  }
+  completedAt
+  createdAt
+  updatedAt
+  email
+  discountApplications(first: 10) {
+    edges {
+      node {
+        __typename
+        ...DiscountApplicationFragment
+      }
+    }
+  }
+  appliedGiftCards {
+    ...AppliedGiftCardFragment
+  }
+  shippingAddress {
+    ...MailingAddressFragment
+  }
+  shippingLine {
+    handle
+    price
+    priceV2 {
+      amount
+      currencyCode
+    }
+    title
+  }
+  customAttributes {
+    key
+    value
+  }
+  order {
+    id
+    processedAt
+    orderNumber
+    subtotalPrice
+    subtotalPriceV2 {
+      amount
+      currencyCode
+    }
+    totalShippingPrice
+    totalShippingPriceV2 {
+      amount
+      currencyCode
+    }
+    totalTax
+    totalTaxV2 {
+      amount
+      currencyCode
+    }
+    totalPrice
+    totalPriceV2 {
+      amount
+      currencyCode
+    }
+    currencyCode
+    totalRefunded
+    totalRefundedV2 {
+      amount
+      currencyCode
+    }
+    customerUrl
+    shippingAddress {
+      ...MailingAddressFragment
+    }
+    lineItems(first: 250) {
+      edges {
+        cursor
+        node {
+          title
+          variant {
+            ...VariantWithProductFragment
+          }
+          quantity
+          customAttributes {
+            key
+            value
+          }
+        }
+      }
+    }
+  }
+  lineItems(first: 250) {
+    edges {
+      cursor
+      node {
+        id
+        title
+        variant {
+          ...VariantWithProductFragment
+        }
+        quantity
+        customAttributes {
+          key
+          value
+        }
+        discountAllocations {
+          allocatedAmount {
+            amount
+            currencyCode
+          }
+          discountApplication {
+            __typename
+            ...DiscountApplicationFragment
+          }
+        }
+      }
+    }
+  }
+}

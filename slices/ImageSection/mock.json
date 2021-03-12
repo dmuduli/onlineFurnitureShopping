@@ -1,0 +1,16 @@
+{
+    "__typename": "PageBodyBanner_with_caption",
+    "type": "banner_with_caption",
+    "label": null,
+    "primary": {
+      "image_banner": {
+        "dimensions": {
+          "width": 599,
+          "height": 245
+        },
+        "alt": "Snooze History",
+        "copyright": null,
+        "url": "https://images.prismic.io/snooze-discovery/fd60aeec-b275-43b0-8c84-bbcfefce8890_snooze-history.jpg?auto=compress,format"
+      }
+    }
+  }

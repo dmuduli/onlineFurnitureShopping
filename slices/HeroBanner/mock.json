@@ -1,0 +1,71 @@
+{
+  "__typename": "Collection_pageBodyHero_banner",
+  "type": "hero_banner",
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "MATTRESSES",
+        "spans": []
+      }
+    ],
+    "paragraph": [
+      {
+        "type": "paragraph",
+        "text": "Snooze has a large variety of mattresses online and bases online available in king, queen, double and single from leading brands",
+        "spans": []
+      }
+    ],
+    "button_label": "SHOP ALL MATTRESSES",
+    "button_link": {
+      "__typename": "Products_page",
+      "_linkType": "Link.document",
+      "_meta": {
+        "type": "products_page",
+        "uid": "beds"
+      }
+    },
+    "button_color": "Primary",
+    "sale_type": [
+      {
+        "type": "paragraph",
+        "text": "Spring Sale",
+        "spans": [
+          {
+            "start": 0,
+            "end": 11,
+            "type": "em"
+          }
+        ]
+      }
+    ],
+    "sale_percentage": [
+      {
+        "type": "paragraph",
+        "text": "50%",
+        "spans": [
+          {
+            "start": 0,
+            "end": 3,
+            "type": "strong"
+          }
+        ]
+      }
+    ],
+    "sale_percentage_text": [
+      {
+        "type": "paragraph",
+        "text": "SAVE UP TO",
+        "spans": []
+      }
+    ],
+    "sale_items": [
+      {
+        "type": "paragraph",
+        "text": "ON SELECTED MATTRESSES",
+        "spans": []
+      }
+    ],
+    "sale_banner_color": "#cc2348"
+  }
+}

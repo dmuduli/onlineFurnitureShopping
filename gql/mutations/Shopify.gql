@@ -1,0 +1,96 @@
+#import "~/gql/fragments/Shopify.gql"
+
+# SEE https://help.shopify.com/en/api/storefront-api/reference/mutation/checkoutcreate
+mutation CheckoutCreate($input: CheckoutCreateInput!) {
+  checkoutCreate(input: $input) {
+    userErrors {
+      ...UserErrorFragment
+    }
+    checkoutUserErrors {
+      ...CheckoutUserErrorFragment
+    }
+    checkout {
+      ...CheckoutFragment
+    }
+  }
+}
+
+# Should be called when update product in shopping bag page
+# variables: {
+# 		"checkoutId": "Z2lkOi8vc2hvcGlmeS9DaGVja291dC9mMzA5MGE1ZTQzMTdiMGMzMDcwNDgyNDY1ODU4ZjViZT9rZXk9NmQ1ZGJhYmY4ZDA2ZmZhZTRiYjQ4OTliMDBiMTExMzM=",
+# 		"lineItems":	{
+# 			"id":"Z2lkOi8vc2hvcGlmeS9DaGVja291dExpbmVJdGVtLzEyMzQ1NTY1ODcyMjMwMD9jaGVja291dD1mMzA5MGE1ZTQzMTdiMGMzMDcwNDgyNDY1ODU4ZjViZQ==",
+# 			"quantity":5
+# 		}
+# }
+mutation CheckoutLineItemsUpdate(
+  $checkoutId: ID!
+  $lineItems: [CheckoutLineItemUpdateInput!]!
+) {
+  checkoutLineItemsUpdate(checkoutId: $checkoutId, lineItems: $lineItems) {
+    userErrors {
+      ...UserErrorFragment
+    }
+    checkoutUserErrors {
+      ...CheckoutUserErrorFragment
+    }
+    checkout {
+      ...CheckoutFragment
+    }
+  }
+}
+
+# Should be called while removing entire line item from cart at Shoppng bag detail page
+# variables: {
+# 	checkoutId: "Z2lkOi8vc2hvcGlmeS9DaGVja291dC9hYmQ5YjhhMWQwNTI4YzI0MDdhZjU4YjQ0ZmUzNDdiZj9rZXk9NmM1ZDE3MTQxMTBjYWM0MDNlYjllZjUzY2ZjOTI0MTI=",
+# 	lineItemIds: ["Z2lkOi8vc2hvcGlmeS9DaGVja291dExpbmVJdGVtLzEyMzQ1NTY1ODcyMjMwMD9jaGVja291dD1hYmQ5YjhhMWQwNTI4YzI0MDdhZjU4YjQ0ZmUzNDdiZg=="]
+# }
+mutation checkoutLineItemsRemove($checkoutId: ID!, $lineItemIds: [ID!]!) {
+  checkoutLineItemsRemove(checkoutId: $checkoutId, lineItemIds: $lineItemIds) {
+    userErrors {
+      ...UserErrorFragment
+    }
+    checkoutUserErrors {
+      ...CheckoutUserErrorFragment
+    }
+    checkout {
+      ...CheckoutFragment
+    }
+  }
+}
+
+mutation checkoutLineItemsAdd(
+  $checkoutId: ID!
+  $lineItems: [CheckoutLineItemInput!]!
+) {
+  checkoutLineItemsAdd(checkoutId: $checkoutId, lineItems: $lineItems) {
+    userErrors {
+      ...UserErrorFragment
+    }
+    checkoutUserErrors {
+      ...CheckoutUserErrorFragment
+    }
+    checkout {
+      ...CheckoutFragment
+    }
+  }
+}
+
+# https://shopify.dev/docs/storefront-api/reference/checkouts/checkoutattributesupdatev2
+# CheckoutAttributesUpdateV2Input should be like {"allowPartialAddresses" : true/false, "customAttributes": [{"key": "some", "value" : "other"}], note: "some note"}
+mutation checkoutAttributesUpdateV2(
+  $checkoutId: ID!
+  $input: CheckoutAttributesUpdateV2Input!
+) {
+  checkoutAttributesUpdateV2(checkoutId: $checkoutId, input: $input) {
+    userErrors {
+      ...UserErrorFragment
+    }
+    checkoutUserErrors {
+      ...CheckoutUserErrorFragment
+    }
+    checkout {
+      ...CheckoutFragment
+    }
+  }
+}

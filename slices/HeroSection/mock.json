@@ -1,0 +1,19 @@
+{
+  "type": "hero_section",
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "ALL MATTRESSES & BASES",
+        "spans": []
+      }
+    ],
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "Everyone sleeps differently. We're here to help take the guesswork out of finding the right mattress for you. Snooze has a large variety of mattresses online and bases online available in king, queen, double and single from leading brands such as Sealy, Tempur & Slumberland.",
+        "spans": []
+      }
+    ]
+  }
+}

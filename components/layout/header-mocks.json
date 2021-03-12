@@ -1,0 +1,1335 @@
+[
+  {
+    "type": "1st_level",
+    "primary": {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Mattresses & Bases",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "mattresses",
+          "type": "collection_page"
+        }
+      }
+    }
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Type:",
+      "sub_title": "Mattresses"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Pillow Top Mattresses",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Memory Foam Mattresses",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattress-base",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Spring Mattresses",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Mattresses in a Box",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattress-base",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Adjustable Mattresses",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattress-base",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Mattresses",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Bed Bases"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Adjustable Bases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Bed Bases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Mattresses with Bases"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Adjustable Mattresses with Bases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Mattresses with Bases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Size:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Long Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Double",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Queen",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Super King",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Brand:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Sealy",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Madison",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Slumberland",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Tempur",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "SleepTailor",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Bedgear",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattresses",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "1st_level",
+    "primary": {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Bed Frames",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "beds",
+          "type": "collection_page"
+        }
+      }
+    }
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Type:",
+      "sub_title": "Beds"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Beds with Storage",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Sofa Beds",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Bed Heads",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Beds",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": null,
+        "second_level_link": null
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop By Material:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Wooden Bed Frames",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Metal Bed Frames",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Upholstered Bed Frames",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Size:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Double",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Queen",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Super King",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Style:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Contemporary",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Natural",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Classic",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Luxury",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "1st_level",
+    "primary": {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Bedroom Furniture",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "bedroom-furniture",
+          "type": "collection_page"
+        }
+      }
+    }
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Type:",
+      "sub_title": "Furniture"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Bedside Tables",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Mirrors",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Desks",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Dressers",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Lowboys",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Tallboys",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Furniture",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Storage"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Blanket Boxes",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Toyboxes",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Bookcases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Storage",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Furniture Care"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Guardsman product care",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Style:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Contemporary",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Natural",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Classic",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Luxury",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "1st_level",
+    "primary": {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Kids Bedroom",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "kids-bedroom",
+          "type": "collection_page"
+        }
+      }
+    }
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Type:",
+      "sub_title": "Kids Beds"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Bunk Beds & Loft Beds",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Kids Storage Beds",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Trundle Beds",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Kids Beds",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Kids mattresses & Bases"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Kids Mattresses",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Kids Mattresses with Bases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Kids Mattresses & Bases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": null,
+        "second_level_link": null
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Kids Bedroom Furniture"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Kids Bedside Tables",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Kids Desks & Hutches",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Kids Bookcases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Kids Bedroom Furniture",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Kids Storage"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Tallboys",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Toyboxes",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Kids Storage",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Kids Bedding"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "All Kids Bedding",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop By Size:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Long Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Double",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Queen",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "1st_level",
+    "primary": {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Bedding & Linen",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "bedroom-furniture",
+          "type": "collection_page"
+        }
+      }
+    }
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Type:",
+      "sub_title": "Bedding"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Mattress Protectors",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Mattress Topper",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Pillow Protectors",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Quilts",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Pillows",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Bedding",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": null,
+      "sub_title": "Linen"
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Pillowcases",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Bed Sheets",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "All Linen",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by Size:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Long Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King Single",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Double",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Queen",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "King",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Super King",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "beds",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "1st_level",
+    "primary": {
+      "link_label": [
+        {
+          "type": "paragraph",
+          "text": "Sale",
+          "spans": []
+        }
+      ],
+      "link": {
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "bedroom-furniture",
+          "type": "collection_page"
+        }
+      }
+    }
+  },
+  {
+    "type": "2nd_level",
+    "primary": {
+      "link_title": "Shop by category:",
+      "sub_title": null
+    },
+    "fields": [
+      {
+        "second_level_link_text": "Clearance",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Mattresses on Sale",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Beds on Sale",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "mattress-base",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Bedroom Furniture on Sale",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      },
+      {
+        "second_level_link_text": "Bedding on Sale",
+        "second_level_link": {
+          "_linkType": "Link.document",
+          "_meta": {
+            "uid": "bedroom-furniture",
+            "type": "collection_page"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "banner",
+    "primary": {
+      "title": [
+        {
+          "type": "heading4",
+          "text": "Jump into our",
+          "spans": []
+        }
+      ],
+      "sale_type": "sprint sale",
+      "sale_percentage_text": "save up to",
+      "sale_percentage": "50%",
+      "sale_items": "on selected mattresses",
+      "link": {
+        "_linkType": "Link.document",
+        "_meta": {
+          "uid": "mattresses",
+          "type": "collection_page"
+        }
+      },
+      "background_color": "#cc2348"
+    }
+  }
+]

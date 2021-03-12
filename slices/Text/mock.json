@@ -1,0 +1,20 @@
+{
+    "__typename": "PageBodyText",
+    "type": "text",
+    "label": null,
+    "primary": {
+      "text": [
+        {
+          "type": "heading4",
+          "text": "Snooze was established in 1974 with one store in Melbourne, under the trading name, ‘Capt’n Snooze’. It was one of Australia's first bedroom specialist stores, offering new standards of service, expertise and range.",
+          "spans": [
+            {
+              "start": 0,
+              "end": 215,
+              "type": "strong"
+            }
+          ]
+        }
+      ]
+    }
+}

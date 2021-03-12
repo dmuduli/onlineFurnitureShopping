@@ -1,0 +1,13 @@
+{
+  "__typename": "Collection_pageBodyPlaceholder_section",
+  "type": "placeholder_section",
+  "primary": {
+    "title": [
+      {
+        "type": "heading2",
+        "text": "Beds By....",
+        "spans": []
+      }
+    ]
+  }
+}

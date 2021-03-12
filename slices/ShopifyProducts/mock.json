@@ -1,0 +1,314 @@
+{
+  "type": "shopify_products",
+  "primary": {
+    "list_title": [
+      {
+        "type": "heading3",
+        "text": "Recommended for you",
+        "spans": []
+      }
+    ]
+  },
+  "fields": [
+    {
+      "product": {
+        "id": "5253217026092",
+        "title": "Tempur Original Supreme Soft Touch Mattress",
+        "handle": "tempur-original-supreme-soft-touch-mattress",
+        "tags": [
+          "autoclub-40",
+          "campaign:summer-sale-20210104",
+          "canopy",
+          "king",
+          "king-mattresses",
+          "king-single",
+          "king-single-mattresses",
+          "long-single",
+          "long-single-mattresses",
+          "mattress",
+          "mattress-furniture",
+          "mattress-protector-offer",
+          "mattresses",
+          "mattresses-bases",
+          "mattresses-only",
+          "min_from_price:5999.00",
+          "queen",
+          "queen-mattresses",
+          "sale",
+          "single",
+          "single-mattresses",
+          "tempur"
+        ],
+        "description": "Tempur Original Supreme Soft Touch Mattress - Exclusive to Snooze The Soft-Touch range is a premium offering by Tempur that features a sumptuous quilted fabric using Extra-Soft Material for the ultimate in plush comfort. The Original Supreme features Soft-Touch quilting, specifically designed to cushion and hug your body. The iconic Tempur Material is recognised for it's space technology enabling weightless comfort and body confirming support. This mattress is designed for those who desire a firmer feel with a luxurious quilted cover for added comfort. Features Soft-Touch Quilting - using Tempur Extra Soft Material Featuring the QuickRefresh Cover - with unique Soft-Touch quilting. Can be easily removed for airing. 1.5 cm Quilted Tempur Extra Soft Material 2 cm Tempur Comfort Material (soft) 8 cm Tempur Support Material (firm) 11cm DuraBase Layer Made in Denmark 10 year guarantee",
+        "descriptionHtml": "<div class=\"left\">\n<h2>Tempur Original Supreme Soft Touch Mattress - Exclusive to Snooze</h2>\n<p>The Soft-Touch range is a premium offering by Tempur that features a sumptuous quilted fabric using Extra-Soft Material for the ultimate in plush comfort. The Original Supreme features Soft-Touch quilting, specifically designed to cushion and hug your body. The iconic Tempur Material is recognised for it's space technology enabling weightless comfort and body confirming support. This mattress is designed for those who desire a firmer feel with a luxurious quilted cover for added comfort.</p>\n</div>\n<div class=\"right\">\n<h2>Features</h2>\n<ul>\n<li>Soft-Touch Quilting - using Tempur Extra Soft Material</li>\n<li>Featuring the QuickRefresh Cover - with unique Soft-Touch quilting. Can be easily removed for airing.</li>\n<li>1.5 cm Quilted Tempur Extra Soft Material</li>\n<li>2 cm Tempur Comfort Material (soft)</li>\n<li>8 cm Tempur Support Material (firm)</li>\n<li>11cm DuraBase Layer</li>\n<li>Made in Denmark</li>\n<li>10 year guarantee</li>\n</ul>\n</div>",
+        "vendor": "Snooze",
+        "featuredImage": "https://cdn.shopify.com/s/files/1/2657/7564/products/SNZ32831_Tempur-Original-Supreme-Soft-Touch_QS_Mattress_NA_Lifestyle_Front.jpg?v=1590471779",
+        "options": [
+          {
+            "name": "Size",
+            "position": 1,
+            "values": ["Single", "Long Single", "King Single", "Queen", "King"]
+          },
+          {
+            "name": "Comfort Feel",
+            "position": 2,
+            "values": ["Firm"]
+          }
+        ],
+        "reviews_average": 4.6,
+        "reviews_count": 10,
+        "reviewHtml": "<span class=\"yotpo-display-wrapper\" style=\"visibility: hidden;\"> <div class=\"standalone-bottomline\" data-source=\"offload\"> <div class=\"yotpo-bottomline pull-left star-clickable\"> <span class=\"yotpo-stars\"> <span class=\"yotpo-icon yotpo-icon-star rating-star pull-left\"></span><span class=\"yotpo-icon yotpo-icon-star rating-star pull-left\"></span><span class=\"yotpo-icon yotpo-icon-star rating-star pull-left\"></span><span class=\"yotpo-icon yotpo-icon-star rating-star pull-left\"></span><span class=\"yotpo-icon yotpo-icon-empty-star rating-star pull-left\"></span><span class=\"sr-only\">4.0 star rating</span> </span> <a class=\"text-m\">3 Reviews</a> <div class=\"yotpo-clr\"></div> </div> <div class=\"yotpo-clr\"></div> </div> <div class=\"yotpo-clr\"></div> </span>;",
+        "product_campaign_badge_color": "#7E2BBB",
+        "product_campaign_badge_title": "Sale",
+        "images": [
+          {
+            "id": "16476201680940",
+            "src": "https://cdn.shopify.com/s/files/1/2657/7564/products/SNZ32831_Tempur-Original-Supreme-Soft-Touch_QS_Mattress_NA_Lifestyle_Front.jpg?v=1590471779",
+            "altText": null,
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "16476201713708",
+            "src": "https://cdn.shopify.com/s/files/1/2657/7564/products/SNZ32831_Tempur-Original-Supreme-Soft-Touch_QS_Mattress_NA_Lifestyle_Angle.jpg?v=1590471779",
+            "altText": null,
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "16476201746476",
+            "src": "https://cdn.shopify.com/s/files/1/2657/7564/products/SNZ32831_Tempur-Original-Supreme-Soft-Touch_QS_Mattress_NA_Contour_Angle.jpg?v=1590471779",
+            "altText": null,
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "16476201812012",
+            "src": "https://cdn.shopify.com/s/files/1/2657/7564/products/SNZ32831_Tempur-Original-Supreme-Soft-Touch_QS_Mattress_NA_Contour_Side.jpg?v=1590471779",
+            "altText": null,
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "16476201910316",
+            "src": "https://cdn.shopify.com/s/files/1/2657/7564/products/SNZ32831_Tempur-Original-Supreme-Soft-Touch_QS_Mattress_NA_Contour_Front.jpg?v=1590471779",
+            "altText": null,
+            "__parentId": "gid://shopify/Product/5253217026092"
+          }
+        ],
+        "variants": [
+          {
+            "id": "34236712026156",
+            "sku": "SNZ-32828",
+            "title": "Single / Firm",
+            "availableForSale": true,
+            "compare_at_price": "5999.00",
+            "price": "2999.00",
+            "image": null,
+            "position": 1,
+            "selectedOptions": {
+              "Size": {
+                "name": "Size",
+                "value": "Single"
+              },
+              "Comfort Feel": {
+                "name": "Comfort Feel",
+                "value": "Firm"
+              }
+            },
+            "inventoryPolicy": "DENY",
+            "inventoryQuantity": 0,
+            "fulfillmentService": "Manual",
+            "mattress_comfort_feel": {
+              "value": "Firm"
+            },
+            "cloud_rating": {
+              "value": "5"
+            },
+            "warranty": "10 Years",
+            "support_system": "Spring Free",
+            "delivery_pickup": "1",
+            "delivery_truck": "1",
+            "width": "90",
+            "height": "23",
+            "depth": "190",
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "34236712222764",
+            "sku": "SNZ-32829",
+            "title": "Long Single / Firm",
+            "availableForSale": true,
+            "compare_at_price": "5999.00",
+            "price": "2999.00",
+            "image": null,
+            "position": 2,
+            "selectedOptions": {
+              "Size": {
+                "name": "Size",
+                "value": "Long Single"
+              },
+              "Comfort Feel": {
+                "name": "Comfort Feel",
+                "value": "Firm"
+              }
+            },
+            "inventoryPolicy": "DENY",
+            "inventoryQuantity": 0,
+            "fulfillmentService": "Manual",
+            "mattress_comfort_feel": {
+              "value": "Firm"
+            },
+            "cloud_rating": {
+              "value": "5"
+            },
+            "warranty": "10 Years",
+            "support_system": "Spring Free",
+            "delivery_pickup": "1",
+            "delivery_truck": "1",
+            "width": "91",
+            "height": "23",
+            "depth": "203",
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "34236712386604",
+            "sku": "SNZ-32830",
+            "title": "King Single / Firm",
+            "availableForSale": true,
+            "compare_at_price": "6899.00",
+            "price": "3449.00",
+            "image": null,
+            "position": 3,
+            "selectedOptions": {
+              "Size": {
+                "name": "Size",
+                "value": "King Single"
+              },
+              "Comfort Feel": {
+                "name": "Comfort Feel",
+                "value": "Firm"
+              }
+            },
+            "inventoryPolicy": "DENY",
+            "inventoryQuantity": 0,
+            "fulfillmentService": "Manual",
+            "mattress_comfort_feel": {
+              "value": "Firm"
+            },
+            "cloud_rating": {
+              "value": "5"
+            },
+            "warranty": "10 Years",
+            "support_system": "Spring Free",
+            "delivery_pickup": "1",
+            "delivery_truck": "1",
+            "width": "105",
+            "height": "23",
+            "depth": "200",
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "34236712517676",
+            "sku": "SNZ-32831",
+            "title": "Queen / Firm",
+            "availableForSale": true,
+            "compare_at_price": "7499.00",
+            "price": "3749.00",
+            "image": null,
+            "position": 4,
+            "selectedOptions": {
+              "Size": {
+                "name": "Size",
+                "value": "Queen"
+              },
+              "Comfort Feel": {
+                "name": "Comfort Feel",
+                "value": "Firm"
+              }
+            },
+            "inventoryPolicy": "DENY",
+            "inventoryQuantity": 0,
+            "fulfillmentService": "Manual",
+            "mattress_comfort_feel": {
+              "value": "Firm"
+            },
+            "cloud_rating": {
+              "value": "5"
+            },
+            "warranty": "10 Years",
+            "support_system": "Spring Free",
+            "delivery_pickup": "1",
+            "delivery_truck": "1",
+            "width": "152",
+            "height": "23",
+            "depth": "203",
+            "__parentId": "gid://shopify/Product/5253217026092"
+          },
+          {
+            "id": "34236712615980",
+            "sku": "SNZ-32832",
+            "title": "King / Firm",
+            "availableForSale": true,
+            "compare_at_price": "9999.00",
+            "price": "4999.00",
+            "image": null,
+            "position": 5,
+            "selectedOptions": {
+              "Size": {
+                "name": "Size",
+                "value": "King"
+              },
+              "Comfort Feel": {
+                "name": "Comfort Feel",
+                "value": "Firm"
+              }
+            },
+            "inventoryPolicy": "DENY",
+            "inventoryQuantity": -21,
+            "fulfillmentService": "Manual",
+            "mattress_comfort_feel": {
+              "value": "Plush"
+            },
+            "cloud_rating": {
+              "value": "5"
+            },
+            "warranty": "10 Years",
+            "support_system": "Spring Free",
+            "delivery_pickup": "1",
+            "delivery_truck": "1",
+            "width": "181",
+            "height": "24",
+            "depth": "205",
+            "__parentId": "gid://shopify/Product/5253217026092"
+          }
+        ],
+        "collections": [
+          "king-mattresses",
+          "mattresses",
+          "great-deals-tempur-mattresses",
+          "single-mattresses",
+          "tempur",
+          "autumn-sale",
+          "sale",
+          "all-mattresses",
+          "all-products-obbs",
+          "cart_visible_products",
+          "end-of-financial-year-sale-tempur-mattresses",
+          "king-single-mattresses",
+          "mattresses-and-furniture",
+          "discountable-products",
+          "queen-mattresses",
+          "massive-bedroom-sale",
+          "mattresses-on-sale",
+          "autumn-sale-mattresses",
+          "long-single-mattresses",
+          "all-brands",
+          "massive-bedroom-sale-mattresses",
+          "autoclub-members",
+          "sale-1",
+          "buy-any-mattress-protector-and-get-50-off-selected-mattresses",
+          "great-deals",
+          "autoclub-members-sale-mattresses",
+          "end-of-financial-year-sale-on-now"
+        ]
+      }
+    }
+  ]
+}

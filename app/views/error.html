@@ -1,0 +1,186 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div class="error-banner-section">
+      <img src="~/assets/images/error.jpg" class="error-banner-image" />
+      <img
+        src="~/assets/images/error_mobile.jpg"
+        class="error-banner-image-mob"
+      />
+    </div>
+    <div class="error-container">
+      <h1 class="error-heading">Server Error</h1>
+      <p class="error-msg">
+        Sorry, it looks like this page is having a Snooze.
+      </p>
+      <p class="error-msg">
+        Don’t worry, you can be on your way to shopping by
+        <a
+          href="http://ec2-54-153-232-196.ap-southeast-2.compute.amazonaws.com/"
+          >clicking here</a
+        >
+      </p>
+      <!-- <div class="w-full mb-10 relative">
+        <input
+              type="text"
+              class="border border-gray-400 pl-12 py-3 pr-4 min-w-1/3 md:w-auto w-full"
+            />
+            <icon-search class="absolute left-2 top-2" />
+        <search-bar></search-bar>
+      </div> -->
+      <h4 class="helpful-links-heading">Helpful Links</h4>
+      <div class="helpful-links-wrapper">
+        <div class="helpful-link-btn">
+          <a
+            href="http://ec2-54-153-232-196.ap-southeast-2.compute.amazonaws.com/collections/mattresses"
+          >
+            Mattresses
+          </a>
+        </div>
+        <div class="helpful-link-btn">
+          <a
+            href="http://ec2-54-153-232-196.ap-southeast-2.compute.amazonaws.com/collections/beds"
+          >
+            Bed frames
+          </a>
+        </div>
+        <div class="helpful-link-btn">
+          <a
+            href="http://ec2-54-153-232-196.ap-southeast-2.compute.amazonaws.com/collections/bedroom-furniture"
+          >
+            Bedroom Furniture
+          </a>
+        </div>
+        <div class="helpful-link-btn">
+          <a
+            href="http://ec2-54-153-232-196.ap-southeast-2.compute.amazonaws.com/collections/autumn-sale-mattresses"
+          >
+            Clearance Items
+          </a>
+        </div>
+        <div class="helpful-link-btn">
+          <a
+            href="http://ec2-54-153-232-196.ap-southeast-2.compute.amazonaws.com/pages/store-locator"
+          >
+            Find your nearest store
+          </a>
+        </div>
+        <div class="helpful-link-btn">
+          <a
+            href="http://ec2-54-153-232-196.ap-southeast-2.compute.amazonaws.com/pages/become-a-member"
+          >
+            Snooze Member Program
+          </a>
+        </div>
+      </div>
+    </div>
+    <style type="text/css">
+      @font-face {
+        font-family: "HCo Gotham Rounded";
+        src: url("~assets/fonts/GothamRnd-Medium_Web.woff") format("woff"),
+          url("~assets/fonts/GothamRnd-Medium_Web.woff2") format("woff2");
+      }
+      body {
+        background-color: #f5f5f5;
+        font-family: "HCo Gotham Rounded";
+      }
+      .error-banner-section {
+        overflow: hidden;
+        margin-bottom: 2rem;
+      }
+      .error-banner-image {
+        width: 100%;
+      }
+      .error-banner-image-mob {
+        width: 100%;
+        display: none;
+      }
+      .error-container {
+        padding: 0 6.75rem;
+      }
+      .error-heading {
+        font-size: 1.625rem;
+        font-weight: 600;
+        color: #000000;
+        text-transform: uppercase;
+        margin-bottom: 2rem;
+      }
+      .error-msg {
+        font-size: 0.875rem;
+        color: #000000;
+        margin-bottom: 0.5rem;
+        margin-bottom: 1.5rem;
+      }
+      .error-msg a {
+        font-weight: 500;
+        color: #000000;
+        text-decoration: underline;
+      }
+      .error-msg a:hover {
+        text-decoration: none;
+      }
+      .helpful-links-heading {
+        font-size: 1.125rem;
+        color: #000000;
+        font-weight: 500;
+        margin-bottom: 1rem;
+      }
+      .helpful-links-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 -0.5rem 2rem;
+      }
+      .helpful-link-btn {
+        padding: 0.25rem 0.5rem;
+        display: inline-block;
+      }
+      .helpful-link-btn a {
+        font-size: 0.75rem;
+        font-weight: 500;
+        color: #ffffff;
+        text-align: center;
+        padding: 0.5rem 2rem;
+        background-color: #bfb6ad;
+        display: block;
+        text-decoration: none;
+      }
+      .helpful-link-btn a:hover {
+        background-color: #52555c;
+      }
+      @media screen and (max-width: 800px) {
+        .error-banner-image-mob {
+          display: block;
+        }
+        .error-banner-image {
+          display: none;
+        }
+        .error-container {
+          padding: 0 1.25rem;
+        }
+        .error-heading {
+          font-size: 1.5rem;
+        }
+        .error-msg {
+          font-size: 0.875rem;
+        }
+        .helpful-links-heading {
+          font-size: 1.25rem;
+        }
+        .helpful-links-wrapper {
+          margin: 0 -0.25rem;
+        }
+        .helpful-link-btn {
+          padding: 0.25rem;
+          width: 47.555%;
+        }
+        .helpful-link-btn a {
+          font-size: 0.625rem;
+          padding: 0.5rem;
+        }
+      }
+    </style>
+  </body>
+</html>
